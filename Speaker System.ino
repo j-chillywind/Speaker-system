@@ -40,6 +40,5 @@ void loop() {
       Serial.println("Music OFF");
     }
   }
-  
   delay(100); // Short delay for debounce
 }
